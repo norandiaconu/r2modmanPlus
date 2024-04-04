@@ -1,4 +1,4 @@
-### 3.1.47
+### 3.1.48
 - Significant performance improvements
 - Games added:
   - Palworld
